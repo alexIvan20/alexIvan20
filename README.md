@@ -18,39 +18,39 @@ My name is Alex Ivan and I'm a 3rd year Computer Science student  interested in 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ivanAlex0/ivanAlex0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanAlex0&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=363837&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanAlex0&theme=vue-dark&langs_count=3" />
 </a>
 <br>
 <br>
 
 <a href="https://github.com/ivanAlex0/Food-Delivery-Web-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivanAlex0&repo=Food-Delivery-Web-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=363837" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivanAlex0&repo=Food-Delivery-Web-App&theme=vue-dark" />
 </a>
 <br>
 <br>
 
 <a href="https://github.com/ivanAlex0/Betting-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivanAlex0&repo=Betting-Application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=363837" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivanAlex0&repo=Betting-Application&theme=vue-dark" />
 </a>
 <br>
 <br>
 
 <a href="https://github.com/ivanAlex0/WebSynu-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivanAlex0&repo=WebSynu-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=363837" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivanAlex0&repo=WebSynu-App&theme=vue-dark" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/ivanAlex0/Queue-Simulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivanAlex0&repo=Queue-Simulator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=363837" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivanAlex0&repo=Queue-Simulator&theme=vue-dark" />
 </a> 
 
 <br>
 <br>
 
 <a href="https://github.com/ivanAlex0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanAlex0&show_icons=true&line_height=20&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=363837" alt="Alex's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanAlex0&show_icons=true&line_height=20&count_private=false&theme=vue-dark" alt="Alex's GitHub Stats" />
 </a>
 
 [1.1]: https://raw.githubusercontent.com/ivanAlex0/ivanAlex0/main/facebook.png
