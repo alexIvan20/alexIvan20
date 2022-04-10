@@ -23,6 +23,12 @@ My name is Alex Ivan and I'm a 3rd year Computer Science student  interested in 
 <br>
 <br>
 
+<a href="https://github.com/ivanAlex0/Food-Delivery-Web-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivanAlex0&repo=Food-Delivery-Web-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=363837" />
+</a>
+<br>
+<br>
+
 <a href="https://github.com/ivanAlex0/Betting-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivanAlex0&repo=Betting-Application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=363837" />
 </a>
