@@ -5,15 +5,15 @@
 My name is Alex Ivan and I'm a 3rd year Computer Science student  interested in **Software Engeneering** and **Probabilities**. I'm from Romania, currently living in Cluj-Napoca. You can also find me on [![LinkedIn][1.2]][1],  or on [![Facebook][1.1]][2].
 
 ## <img src="https://raw.githubusercontent.com/ivanAlex0/ivanAlex0/main/settings.png" width="16px"> Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=E18A07&color=C0C0C0) 
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=E18A07&color=2f4f4f) 
 
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=E18A07&color=C0C0C0)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=E18A07&color=C0C0C0)
-![](https://img.shields.io/badge/Tool-Maven-informational?style=for-the-badge&logo=Apache-Maven&logoColor=E18A07&color=C0C0C0)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=E18A07&color=2f4f4f)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=E18A07&color=2f4f4f)
+![](https://img.shields.io/badge/Tool-Maven-informational?style=for-the-badge&logo=Apache-Maven&logoColor=E18A07&color=2f4f4f)
 
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=E18A07&color=C0C0C0)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=E18A07&color=C0C0C0)
-![](https://img.shields.io/badge/AVD_Manager-AndroidStudio-informational?style=for-the-badge&logo=androidstudio&logoColor=E18A07&color=C0C0C0)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=E18A07&color=2f4f4f)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=E18A07&color=2f4f4f)
+![](https://img.shields.io/badge/AVD_Manager-AndroidStudio-informational?style=for-the-badge&logo=androidstudio&logoColor=E18A07&color=2f4f4f)
 
 ## &#x1f4c8; GitHub Stats
 
